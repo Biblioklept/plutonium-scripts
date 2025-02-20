@@ -2,6 +2,11 @@
 #include maps\_utility;
 #include maps\_hud_util;
 
+/*
+	Mod: Black ops Plutonium zombies counter
+	Developed by Cabcon and optimized by DoktorSAS
+*/
+
 init()
 {
 	init_ZombiesCounter();
